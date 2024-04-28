@@ -17,4 +17,4 @@ Using [Skeleton](http://getskeleton.com/) let us build something that loads quic
 
 You won't need gulp, npm, or anything else to make LittleLink work, it uses the bare essentials. You can just fork LittleLink, edit `index.html`, and publish. Use [ZEIT Now](https://zeit.co/github) for continuous deployment when you make an update to your LittleLink.
 
-<!-- CNAME www.peladonerd.com https://gtoranzo.github.io/gtoranzo-web-->
+<!-- CNAME www.peladonerd.com https://gtoranzo.github.io/gtoranzo-web -->
